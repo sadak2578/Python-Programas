@@ -76,3 +76,6 @@ continuar.place(x=470, y=20)
 
 
 janela.mainloop()
+
+
+#Código feito por sadak_who 25/12/23
