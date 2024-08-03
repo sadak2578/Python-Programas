@@ -80,3 +80,5 @@ salvar.place(x=615, y=0)
 
 
 janela.mainloop()
+
+#código feito por sadak_who 
