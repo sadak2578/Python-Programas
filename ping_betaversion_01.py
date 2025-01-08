@@ -100,3 +100,9 @@ while True:
 		print('Creditos do desenvolvedor: sadak2578 -> usuário no git hub')
 		sleep(1.5)
 		system(exit())
+		
+
+
+# Esse daqui ainda n ficou muito legal, mas preciso adicionar os administradores, para mexer com o programa, mais por segurança mesmo
+# além disso vou colocar para ele pedir usuário e senha admin as opções de configuração, e separar melhor as opções de ping possíveis.
+# colocar tbm as opções ty e except, para validação tanto de usuário administrador quanto das opções de ping e das opções de if/else/elif.
